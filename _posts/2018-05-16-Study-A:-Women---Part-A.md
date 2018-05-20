@@ -1,5 +1,5 @@
 ---
-title: Study #A: Women - Part A
+title: "Study A: Women - Part A"
 author: M. Beleren
 date: 2018-05-16
 categories: Anthropology
